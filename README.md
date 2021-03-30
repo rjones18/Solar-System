@@ -1,5 +1,5 @@
 # Solar-System
-In this assignment I used use your knowledge of inheritance and instance methods to make a soalr syestem! below is my final code: 
+In this assignment I used use your knowledge of inheritance and instance methods to make a solar syestem! below is my final code: 
 
 ```
 class Body:
@@ -61,3 +61,6 @@ main()
 
 
 ```
+Once ran the code gives the reuslts below
+
+![Solar_System](https://github.com/rjones18/Images/blob/main/Solar_System.PNG)
